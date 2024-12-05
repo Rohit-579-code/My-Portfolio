@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color:white;
+    font-weight: bold;
+    text-shadow: 2px 3px 4px white;
+}
+h3{
+    color:white;
+    font-weight: bold;
+    text-shadow: 2px 3px 4px white;
+}
+li{
+    color: white;
+    font-weight: 200;
+}
+body{
+    background-color: #1A1A2E;
+   /* background-image: url("./education.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    backdrop-filter: blur(4px) brightness(0.8) contrast(1.2); */
+
+}
+#school{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+#school:hover{
+
+    box-shadow: 10px 15px 20px 5px;
+}
+#Namuna{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+#Namuna:hover{
+
+    box-shadow: 10px 15px 20px 5px;
+}
+#ID:hover{
+
+    box-shadow: 10px 15px 20px 5px;
+}
+#ID{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    height: 50px;
+    background-color: black;
+    border: 3px solid white;
+
+}
+footer:hover{
+    background-color: white;
+    border: 3px solid black;
+    #thank{color: black;
+    }
+}
+#thank{
+    padding-top: 18px;
+    color: white;
+}
+#navbar{
+    position:fixed;
+    right: 10px;
+    top: 20px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 10%;
+
+}
+.nav{
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+#ho{
+
+    color: white;
+    border-radius: 20%;
+}
+#ho:hover{
+    box-shadow: 10px 15px 15px 5px rgb(245, 229, 229);
+}

@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    
+}
+body{
+    background:#E4F1ED;
+    /* background-image: url("./car.jpg");
+    background-position: center;
+    background-size: cover;
+    backdrop-filter: blur(7px) brightness(1) contrast(1.2);
+    background-repeat: no-repeat; */
+}
+.container{
+    text-align: center;
+}
+.photo{
+    border: 3px solid black;
+    border-radius: 40%;
+}
+.photo:hover{
+    box-shadow: 10px 15px 20px 5px;
+#end{
+    font-size: 30px;
+    background-color: white;
+    border: 3px solid black;
+
+}
+
+}
+#winner
+{
+    width: 300px;
+    border: 3px solid black;
+    border-radius: 50%;
+}
+#winner:hover{
+    box-shadow: 10px 15px 20px 5px;
+}
+.pro{
+    border: 3px solid black;
+    border-radius: 10%;
+}
+.pro:hover{
+    box-shadow: 10px 15px 20px 5px;
+}
+.eli{
+    border: 3px solid white;
+    border-radius: 20%;
+}
+.eli:hover{
+    box-shadow: 10px 15px 20px 5px;
+}
+.Home{
+    border: 3px solid black;
+    border-radius: 20%;
+}
+.Home:hover{
+    box-shadow: 10px 15px 20px 5px;
+}
+#edit{
+    background-color: white;
+    border: 3px solid black;
+
+}
+#html{
+    background-color: white;
+    border: 3px solid black;
+
+}
+#robot{
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 0%;
+
+}
+#mini{
+    background-color: white;
+    border: 3px solid black;
+
+}
+#sweet{
+    background-color: white;
+    border: 3px solid black;
+
+}
+footer{
+    text-align: center;
+    height: 50px;
+    padding-top: 20px;
+    background-color: black;
+    border: 3px solid white;
+    color: white;
+
+}
+footer:hover{
+    background-color: white;
+    border: 3px solid black;
+    color: black;
+   
+}

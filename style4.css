@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color:#E8FAFA;
+}
+h1{
+    text-align: center;
+}
+.container{
+    text-align: center ;
+
+}
+img{
+    border-radius: 20%;
+    border: 3px solid black;
+}
+img:hover{
+
+        box-shadow: 10px 15px 20px 5px;
+}
+iframe{
+    border: 3px solid black;
+    border-radius: 20%;
+}
+footer{
+    text-align: center;
+    height: 50px;
+    padding-top: 20px;
+    background-color: black;
+    border: 3px solid white;
+    color: white;
+
+}
+footer:hover{
+    background-color: white;
+    border: 3px solid black;
+    color: black;
+   
+}

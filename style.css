@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body{
+    background-image: url("./Robotics.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  backdrop-filter: blur(5px) brightness(0.8) contrast(1.2);
+}
+h1{
+    text-align: center;
+    color: blue;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+
+}
+#intro{
+    text-align: center;
+    font-size: larger;
+    color: red;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+p{ 
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bolder;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+#about{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.img1{
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+}
+#h3{
+     height: 20px; 
+    width: 80%; /* Adjust width for smaller screens */
+    max-width: 200px;
+    margin: 20px auto; /* Centered */
+     background-color:white; 
+    text-align: center;
+     padding-top: 10px;
+    border-radius: 30%;  
+    border: 2px solid black; 
+    color: black;
+
+}
+.container{
+    text-align: center;
+}
+ .education{
+       height: 50px;
+       width: 200px;
+       margin-left: 42%;
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 20%;
+border: 3px solid blue;
+/* box-shadow: 10px 15px 15px 5px; */
+
+ }
+
+#edu{
+    color: white;
+    text-decoration: none;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+#edu:hover{
+text-transform: capitalize;
+color:red;
+}
+.experience{
+    margin-top: 20px;
+    height: 50px;
+    width: 200px;
+    margin-left: 42%;
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    border: 5px solid blue;
+    border-radius: 20%;
+    /* box-shadow: 10px 15px 15px 5px; */
+}
+#exp{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+    
+    
+}
+#exp:hover{
+
+    text-transform: capitalize;
+    color:blue;
+    }
+.project{
+    margin-top: 20px;
+    height: 50px;
+    width: 200px;
+    margin-left: 42%;
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    border: 5px solid blue;
+    border-radius: 20%;
+    /* box-shadow: 10px 15px 15px 5px; */
+}
+#pro{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+#pro:hover{
+    text-transform: capitalize;
+    color:Yellow;
+}
+.contact{
+    margin-top: 20px;
+    height: 50px;
+    width: 200px;
+    margin-left: 42%;
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    border: 5px solid blue;
+    border-radius: 20%;
+   
+}
+.contact:hover{
+    box-shadow: 10px 15px 15px 5px;
+    #con{
+        color: green;
+    }
+}
+.project:hover{
+    box-shadow: 10px 15px 15px 5px;
+    #pro{
+        color: yellow;
+    }
+}
+.experience:hover{
+    box-shadow: 10px 15px 15px 5px;
+    #exp{
+        color: blue;
+    }
+}
+.education:hover{
+    box-shadow: 10px 15px 15px 5px;
+    #edu{
+        color: red;
+    }
+    
+}
+#con{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+#con:hover{
+    text-transform: capitalize;
+    color:Green;
+}
+.foot{
+    margin-top: 20px;
+}
+#thank{
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    font-weight: bolder;
+    font-size: 30px;
+    background-color: black;
+    height: 50px;
+    border-radius: 20%;
+    border: 3px solid white;
+}
+#thank:hover{
+    color:black;
+    background-color: white;
+}
+.education, .experience, .project, .contact {
+    height: 50px;
+    width: 80%;
+    max-width: 200px;
+    margin: 20px auto; 
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 20%;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+    transition: all 0.1s ease-in-out;
+}
+
+
